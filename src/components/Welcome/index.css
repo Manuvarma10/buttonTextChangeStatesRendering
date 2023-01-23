@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+.container {
+  background-color: #1e293b;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  font-family: Bree serif;
+  font-size: 45px;
+  color: #f0bb03;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+.description {
+  font-family: Bree serif;
+  font-size: 25px;
+  color: #ffffff;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+.button1 {
+  height: 40px;
+  width: 100px;
+  padding: 10px;
+  border-radius: 7px;
+  border: 0;
+}
